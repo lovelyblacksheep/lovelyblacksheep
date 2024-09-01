@@ -19,11 +19,6 @@ I'm a passionate developer with expertise in AWS and Python. I enjoy building sc
   <img src="https://github-profile-trophy.vercel.app/?username=lovelyblacksheep&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <!--
 **lovelyblacksheep/lovelyblacksheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
