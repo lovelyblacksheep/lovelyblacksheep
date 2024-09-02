@@ -62,6 +62,7 @@ Full Stack & DevOps Engineer with expertise in building and deploying scalable w
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovelyblacksheep&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyblacksheep&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </p>
 
 <!--
