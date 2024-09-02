@@ -67,11 +67,6 @@ I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovelyblacksheep&theme=radical" alt="GitHub Streak" />
 </p>
 
-<div >
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!--
 **lovelyblacksheep/lovelyblacksheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
