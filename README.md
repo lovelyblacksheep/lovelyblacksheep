@@ -68,7 +68,6 @@ I'm a passionate developer with expertise in AWS and Python. I enjoy building sc
 </p>
 
 <div >
-  <a href="https://bimasha.com/">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
