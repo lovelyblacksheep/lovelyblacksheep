@@ -61,12 +61,6 @@ I'm a passionate developer with expertise in AWS and Python. I enjoy building sc
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovelyblacksheep&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lovelyblacksheep&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 <div >
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
