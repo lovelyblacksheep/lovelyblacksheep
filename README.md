@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-I'm a passionate developer with expertise in AWS and Python. I enjoy building scalable cloud solutions and automating processes with Python.
+I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-<h3>Things I code with</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blacksheepmember@gmail.com)](mailto:kanna6501@gmail.com)
+
+<h3>🚀 Technologies & Tools</h3>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,7 +44,7 @@ I'm a passionate developer with expertise in AWS and Python. I enjoy building sc
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
   ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
   ![InfluxDB](https://img.shields.io/badge/InfluxDB-black?style=flat-square&logo=influxdb)
@@ -55,7 +61,7 @@ I'm a passionate developer with expertise in AWS and Python. I enjoy building sc
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
-### 📊 GitHub Stats
+### ⚡ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovelyblacksheep&theme=radical" alt="GitHub Streak" />
