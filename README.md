@@ -61,8 +61,8 @@ Full Stack & DevOps Engineer with expertise in building and deploying scalable w
 ### ⚡ GitHub Stats
 
 <p style="display: flex,">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovelyblacksheep&show_icons=true&count_private=true&include_all_commits=true&line_height=15" alt="GitHub Streak" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovelyblacksheep&show_icons=true&count_private=true&theme=radical&include_all_commits=true&line_height=15" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyblacksheep&hide_langs_below=1&theme=radical&line_height=27&layout=compact" /></p>
 
 <!--
 **lovelyblacksheep/lovelyblacksheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
