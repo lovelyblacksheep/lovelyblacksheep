@@ -126,6 +126,8 @@ Full Stack & DevOps Engineer with expertise in building and deploying scalable w
  </tr>
 </table>
 
+<br><br>
+
 ### ⚡ GitHub Stats
 
 <p style="display: flex,">
