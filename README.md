@@ -6,7 +6,7 @@ Full Stack & DevOps Engineer with expertise in building and deploying scalable w
 [![Telegram Badge](https://img.shields.io/badge/-@frozendev-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/frozendev "Contact on Telegram")
 
 <h3>🚀 Technologies & Tools</h3>
-
+<div style="display: none">
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -57,7 +57,7 @@ Full Stack & DevOps Engineer with expertise in building and deploying scalable w
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-
+</div>
 <table align="center">
   <tr>
     <td align="center" width="96">
