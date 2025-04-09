@@ -2,8 +2,10 @@
 
 Full Stack & DevOps Engineer with expertise in building and deploying scalable web applications. Skilled in modern frontend and backend technologies, cloud infrastructure, CI/CD pipelines, and automation. Passionate about optimizing workflows and delivering high-quality software solutions:
 
+<div style="display: none">
 [![Gmail Badge](https://img.shields.io/badge/-blacksheepmember@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blacksheepmember@gmail.com)](mailto:blacksheepmember@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@frozendev-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/frozendev "Contact on Telegram")
+</div>
 
 <h3>🚀 Technologies & Tools</h3>
 
