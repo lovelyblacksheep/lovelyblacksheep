@@ -128,7 +128,6 @@ Full Stack & DevOps Engineer with expertise in building and deploying scalable w
 ### ⚡ GitHub Stats
 
 <p style="display: flex,">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lovelyblacksheep&show_icons=true&count_private=true&theme=radical&include_all_commits=true&line_height=15" alt="GitHub Streak" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyblacksheep&hide_langs_below=1&theme=radical&line_height=27&layout=compact" /></p>
 
 <!--
@@ -145,5 +144,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gmail Badge](https://img.shields.io/badge/-blacksheepmember@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blacksheepmember@gmail.com)](mailto:blacksheepmember@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-@frozendev-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/frozendev "Contact on Telegram")
