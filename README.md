@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Full Stack & DevOps Engineer with expertise in building and deploying scalable web applications. Skilled in modern frontend and backend technologies, cloud infrastructure, CI/CD pipelines, and automation. Shopify is my specialist. Passionate about optimizing workflows and delivering high-quality software solutions:
+Senior Software Engineer with expertise in building and deploying scalable web applications. Skilled in modern frontend and backend technologies, cloud infrastructure, CI/CD pipelines, and automation. Shopify is my specialist. Passionate about optimizing workflows and delivering high-quality software solutions:
 
 <h3>🚀 Technologies & Tools</h3>
 
